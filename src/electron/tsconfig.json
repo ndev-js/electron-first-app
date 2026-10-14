@@ -1,0 +1,11 @@
+//this config will what the code does 
+
+{
+    "compilerOptions":{
+        "strict": true,
+         "target": "ESnext",
+         "module":"NodeNext",
+         "outDir":"../../dist-electron/",
+         "skipLibCheck": true
+    }
+}
